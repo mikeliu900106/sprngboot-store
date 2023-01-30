@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a86ec1bb-bc9a-4d68-917d-bd40c355fc57" name="Changes" comment="" />
+    <list default="true" id="3ad836d0-1345-46a9-bf94-5c509ae158e3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -17,7 +25,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2Kzj0TO6yjzsAykBOmANzvlwj8R" />
+  <component name="ProjectId" id="2KztbFjsmOmQvs1h0ZvrnhAPdCI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,15 +38,24 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="SpringbootStoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-store" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootstore.SpringbootStoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a86ec1bb-bc9a-4d68-917d-bd40c355fc57" name="Changes" comment="" />
-      <created>1674984083022</created>
+      <changelist id="3ad836d0-1345-46a9-bf94-5c509ae158e3" name="Changes" comment="" />
+      <created>1674989309472</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1674984083022</updated>
-      <workItem from="1674984084095" duration="120000" />
+      <updated>1674989309472</updated>
+      <workItem from="1674989310550" duration="79000" />
     </task>
     <servers />
   </component>
